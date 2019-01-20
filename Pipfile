@@ -6,6 +6,7 @@ url = "https://pypi.org/simple"
 [dev-packages]
 black = "*"
 pylint = "*"
+bpython = "*"
 
 [requires]
 python_version = "3.7.1"
